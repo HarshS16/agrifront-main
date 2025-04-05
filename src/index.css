@@ -1,0 +1,11 @@
+@import "tailwindcss";
+.goog-te-banner-frame.skiptranslate {
+    display: none !important;
+  }
+  body {
+    top: 0px !important;
+  }
+  .goog-logo-link,
+.goog-te-gadget span {
+  display: none !important;
+}
